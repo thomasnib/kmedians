@@ -20,7 +20,9 @@ l2_dist <- function(x, y){
 #####
 # 3. K-Medians
 #####
-# Create a K-Medians Function
+# Create a K-Medians Function. 
+# Here, X represents the dataframe, K represents the number of clusters 
+# and n_iter represents the number of iterations
 kmedians <- function(X, K, n_iter) {
   
   # Initialize centers randomly by obtaining a sample from the data frame
