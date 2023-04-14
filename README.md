@@ -1,7 +1,7 @@
 # K-Medians Clustering
 K-Median clustering is a type of unsupervised machine learning technique used for clustering data points into k groups. It is similar to K-Means clustering, but instead of calculating the mean of the points in each cluster, it calculates the median.
 
-# How Does it Works? 
+# How Does it Work? 
 K-Median clustering algorithm works as follows:
 
 (1) Randomly select k points from the data set to act as the initial centroids. 
